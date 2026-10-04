@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@escuela.edu",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matemática": [
+        18,
+        19
+      ],
+      "Inglés": [
+        16
+      ],
+      "Programación": [
+        20
+      ]
+    },
+    "materias": [
+      "Inglés",
+      "Matemática",
+      "Programación"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "García",
+    "email": "luis@escuela.edu",
+    "carnet": "EST2026002",
+    "notas": {
+      "Inglés": [
+        17
+      ],
+      "Historia": [
+        15
+      ]
+    },
+    "materias": [
+      "Historia",
+      "Inglés"
+    ]
+  }
+]
